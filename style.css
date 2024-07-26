@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(16, 11, 11);
+    color: white;
+}
+h1{
+    background-color: rgb(57, 5, 82);
+}
+a{
+    background-color: rgb(132, 5, 5);
+    color: aliceblue;
+}
+.content{
+    text-align: left;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+}
